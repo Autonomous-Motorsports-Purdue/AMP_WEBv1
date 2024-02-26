@@ -67,7 +67,34 @@
 				<img class="sub-img" src="images/kart.jpg" alt="Autonomous Karting Series team picture.">
 			</div>
 		</div>
-		
+		<div class="container">
+			<h2>Subteams</h2>
+			<a href="/AMP/projects">
+				<div class="team-container">
+					<h3>Software</h3>
+					<img class="subteam-images" src="/AMP/images/view.jpg" />
+				</div>
+			</a>
+			<a href="/AMP/projects">
+				<div class="team-container">
+					<h3>Electrical</h3>
+					<img class="subteam-images" src="/AMP/images/view.jpg" />
+				</div>
+			</a>
+			<a href="/AMP/projects">
+				<div class="team-container">
+					<h3>Mechanical</h3>
+					<img class="subteam-images" src="/AMP/images/view.jpg" />
+				</div>
+			</a>
+			<a href="/AMP/projects">
+				<div class="team-container">
+					<h3>Business</h3>
+					<img class="subteam-images" src="/AMP/images/view.jpg" />
+				</div>
+			</a>
+		</div>
+		<br>
 		<footer>
 			<br>
 			<div class="socials">
