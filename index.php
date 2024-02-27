@@ -4,7 +4,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="Autonomous Motorsports Purdue (AMP) is an organization focused on educating students about autonomous driving and inspiring innovation through student-led projects.">
 		<title>Autonomous Motorsports Purdue</title>
-		<?php include 'assets/header.php' ?>
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/AMP/public_html/assets/header.php'; ?>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="assets/style.css">
 	</head>
@@ -95,18 +95,7 @@
 			</a>
 		</div>
 		<br>
-		<footer>
-			<br>
-			<div class="socials">
-				<a href="https://github.com/Autonomous-Motorsports-Purdue" class="social-links" target="_blank"><i class="fa fa-github" style="font-size:36px"></i></a>
-				&nbsp;&nbsp;&nbsp;
-				<a href="https://www.instagram.com/amppurdue/" class="social-links" target="_blank"><i class="fa fa-instagram" style="font-size: 36px;"></i></a>
-				&nbsp;&nbsp;&nbsp;
-				<a href="https://www.linkedin.com/company/autonomous-motorsports-purdue" class="social-links" target="_blank"><i class="fa fa-linkedin-square" style="font-size:36px"></i></a>
-			</div>
-			<br>
-			Copyright &copy; 2024 Autonomous Motorsports Purdue
-		</footer>
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/AMP/public_html/assets/footer.php'; ?>
 
 	</body>
 </html>
