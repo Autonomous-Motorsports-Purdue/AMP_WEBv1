@@ -22,28 +22,48 @@
 				<a class="nav-links" href="/amp/contact" >Contact</a>
 			</div>
 		</nav>
+		<div class="container-banner">
+			<h1>Our Team</h1>
+			<img id="banner" src="/AMP/images/banner.jpg" alt="AMP Banner">
+		</div>
 		<div class="container">
-			<h2>Who We Are</h2>
-			<div class="box-left">
-				<img class="sub-img" src="images/kart.jpg" alt="Go kart on starting line.">
+			<h2>2023 - 2024 Leadership</h2>
+			<div class="box-badge">
+				<img class="logo-badge" src="/AMP/images/amp_black.png">
+				<img class="image-badge" src="/AMP/images/badge.jpg">
+				<span class="heading-badge">John Smith</span>
+				<span class="sub-heading-badge">Admin</span>
+				<span class="sub-heading-badge">smithj@purdue.edu</span>
 			</div>
-			<div class="box-right">
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
-					labore et dolore magna aliqua. Amet aliquam id diam maecenas ultricies mi eget. Tellus elementum 
-					sagittis vitae et leo. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Donec pretium 
-					vulputate sapien nec sagittis. Facilisi cras fermentum odio eu feugiat pretium. Aenean sed adipiscing diam 
-					donec adipiscing tristique. Laoreet non curabitur gravida arcu ac tortor dignissim convallis aenean. Facilisis 
-					mauris sit amet massa vitae tortor condimentum.
-				<br><br>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
-					labore et dolore magna aliqua. Amet aliquam id diam maecenas ultricies mi eget. Tellus elementum 
-					sagittis vitae et leo. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Donec pretium 
-					vulputate sapien nec sagittis. Facilisi cras fermentum odio eu feugiat pretium. Aenean sed adipiscing diam 
-					donec adipiscing tristique. Laoreet non curabitur gravida arcu ac tortor dignissim convallis aenean. Facilisis 
-					mauris sit amet massa vitae tortor condimentum.
-				</p>
+			<div class="box-badge">
+				<img class="logo-badge" src="/AMP/images/amp_black.png">
+				<img class="image-badge" src="/AMP/images/badge.jpg">
+				<span class="heading-badge">John Smith</span>
+				<span class="sub-heading-badge">Admin</span>
+				<span class="sub-heading-badge">smithj@purdue.edu</span>
 			</div>
+			<div class="box-badge">
+				<img class="logo-badge" src="/AMP/images/amp_black.png">
+				<img class="image-badge" src="/AMP/images/badge.jpg">
+				<span class="heading-badge">John Smith</span>
+				<span class="sub-heading-badge">Admin</span>
+				<span class="sub-heading-badge">smithj@purdue.edu</span>
+			</div>
+			<div class="box-badge">
+				<img class="logo-badge" src="/AMP/images/amp_black.png">
+				<img class="image-badge" src="/AMP/images/badge.jpg">
+				<span class="heading-badge">John Smith</span>
+				<span class="sub-heading-badge">Admin</span>
+				<span class="sub-heading-badge">smithj@purdue.edu</span>
+			</div>
+			<div class="box-badge">
+				<img class="logo-badge" src="/AMP/images/amp_black.png">
+				<img class="image-badge" src="/AMP/images/badge.jpg">
+				<span class="heading-badge">John Smith</span>
+				<span class="sub-heading-badge">Admin</span>
+				<span class="sub-heading-badge">smithj@purdue.edu</span>
+			</div>
+			
 		</div>
 		
 		<div class="container">
