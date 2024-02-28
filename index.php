@@ -11,7 +11,7 @@
 	<body>
 		<nav>
 			<a class="nav-home" href="/AMP">
-				<img class="nav-logo" src="images/amp.png">
+				<img class="nav-logo" src="/AMP/images/amp.png">
 			</a>
 			<div class="nav-container">
 				<a class="nav-links" href="/AMP" >Home</a>
@@ -24,7 +24,10 @@
 		</nav>
 		<div class="container-banner">
 			<h1>Autonomous Motorsports Purdue</h1>
-			<img id="banner" src="images/banner.jpg" alt="AMP Banner">
+			<video id="banner" autoplay loop muted>
+			  <source src= "/AMP/images/banner.mp4" type="video/mp4" />
+			</video>
+
 		</div>
 		<div class="container">
 			<h2>Developing Autonomous Racing Solutions</h2>
@@ -64,7 +67,7 @@
 				</p>
 			</div>
 			<div class="box-right">
-				<img class="sub-img" src="images/kart.jpg" alt="Autonomous Karting Series team picture.">
+				<img class="sub-img" src="/AMP/images/aks.jpg" alt="Autonomous Karting Series team picture.">
 			</div>
 		</div>
 		<div class="container">
