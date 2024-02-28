@@ -110,6 +110,13 @@ footer
 	width: 47%;
 	margin: 5px;
 }
+.box-center
+{
+	text-align: center;
+	display: block;
+	margin: auto;
+	width: 60%;
+}
 .sub-img
 {
 	width: 100%;
@@ -141,4 +148,49 @@ footer
 	display: block;
 	margin: auto;
 	margin-bottom: 8px;
+}
+.image-badge
+{
+	width: 92%;
+	border-radius: 3px;
+	margin: auto;
+	display: block;
+}
+.box-badge
+{
+	width: 240px;
+	display: inline-block;
+	margin: auto;
+	margin: 24px;
+	border: 6px ridge #8e6f3e;
+	border-radius: 6px;
+	background-color: #ebd99f;
+}
+.logo-badge
+{
+	padding: 6px;
+	width: 80%;
+	display: block;
+	margin: auto;
+}
+.heading-badge
+{
+	font-family: acumin-pro, sans-serif;
+	font-size: 24px;
+	color: #000;
+	text-align: center;
+	display: block;
+	margin: auto;
+	padding: 4px;
+	font-weight: bold;
+}
+.sub-heading-badge
+{
+	font-family: acumin-pro, sans-serif;
+	font-size: 18px;
+	color: #000;
+	text-align: center;
+	display: block;
+	margin: auto;
+	padding: 4px;
 }
