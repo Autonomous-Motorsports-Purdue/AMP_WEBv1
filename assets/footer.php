@@ -13,4 +13,17 @@ echo '
 			Copyright &copy; 2024 Autonomous Motorsports Purdue
 		</footer>
 ';
+
+echo '
+<script>
+function mobileNav() {
+  var x = document.getElementById("mobile-container");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+';
 ?>
