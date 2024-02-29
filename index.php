@@ -13,7 +13,7 @@
 			<a class="nav-home" href="/AMP">
 				<img class="nav-logo" src="/AMP/images/amp.png">
 			</a>
-			<div class="nav-container">
+			<div class="nav-container" id="mobile-container">
 				<a class="nav-links" href="/AMP" >Home</a>
 				<a class="nav-links" href="/AMP/ourteam" >Our Team</a>
 				<a class="nav-links" href="/AMP/projects" >Projects</a>
@@ -21,6 +21,9 @@
 				<a class="nav-links" href="/AMP/sponsors" >Sponsors</a>
 				<a class="nav-links" href="/amp/contact" >Contact</a>
 			</div>
+			<a href="javascript:void(0);" class="mobile-icon" onclick="mobileNav()">
+				<i class="fa fa-bars"></i>
+			</a>
 		</nav>
 		<div class="container-banner">
 			<h1>Autonomous Motorsports Purdue</h1>
@@ -70,7 +73,7 @@
 				<img class="sub-img" src="/AMP/images/aks.jpg" alt="Autonomous Karting Series team picture.">
 			</div>
 		</div>
-		<div class="container">
+		<div class="container" id="media-center">
 			<h2>Subteams</h2>
 			<a href="/AMP/projects">
 				<div class="team-container">
@@ -99,6 +102,5 @@
 		</div>
 		<br>
 		<?php include $_SERVER['DOCUMENT_ROOT'].'/AMP/public_html/assets/footer.php'; ?>
-
 	</body>
 </html>
