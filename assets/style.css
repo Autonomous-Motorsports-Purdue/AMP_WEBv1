@@ -194,3 +194,89 @@ footer
 	margin: auto;
 	padding: 4px;
 }
+.mobile-icon
+{
+	display: none;
+}
+
+
+
+
+
+
+@media all and (max-width: 1000px)
+{
+	h1
+	{
+		font-size: 28px;
+		margin-top: 4px;
+	}
+	h2
+	{
+		font-size: 24px;
+	}
+	h3
+	{
+		font-size: 16px;
+	}
+	#mobile-container
+	{
+		display: none;
+	}
+	.nav-links
+	{
+		padding: 6px;
+		margin: 0;
+		margin-left: 4px;
+		margin-bottom: 4px;
+		display: block;
+		color: #000;
+	}
+	.nav-links:hover
+	{
+		color: #000;
+		text-decoration: underline;
+	}
+	.nav-container
+	{
+		margin-top: 8px;
+		right: 0;
+		z-index: 2;
+		width: 50%;
+		position: absolute;
+		background-color: #ebd99f;
+	}
+	.container
+	{
+		width: 90%;
+	}
+	.mobile-icon
+	{
+		float: right;
+		font-size: 36px;
+		color: #FFF;
+		padding: 6px 12px;
+		margin-top: 5px;
+		margin-right: 12px;
+		display: block;
+	}
+	.mobile-icon:hover
+	{
+		background-color: #333;
+		border-radius: 3px;
+	}
+	.box-left, .box-right
+	{
+		float: none;
+		width: 96%;
+		margin: auto;
+	}
+	.team-container
+	{
+		width: 41%;
+	}
+	#media-center
+	{
+		text-align: center;
+	}
+}
