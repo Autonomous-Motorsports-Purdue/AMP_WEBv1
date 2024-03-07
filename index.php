@@ -1,4 +1,3 @@
-<?php error_reporting(E_ERROR) ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,7 +13,7 @@
 <body>
     <nav>
         <a class="nav-home" href="/AMP">
-            <img class="nav-logo" src="/AMP/images/amp.png">
+            <img class="nav-logo" src="/AMP/images/amp.png" />
         </a>
         <div class="nav-container" id="mobile-container">
             <a class="nav-links" href="/AMP">Home</a>
@@ -35,48 +34,48 @@
         </video>
 
     </div>
-    <div class="container">
-        <div class="container-header">
-            <h2>Developing Autonomous Racing Solutions</h2>
-        </div>
-        <div class="container-body">
-            <img class="sub-img" src="AMP/images/kart.jpg" alt="Go kart on starting line.">
-            <p>
-                Autonomous racing is the ultimate engineering challenge. Combining the mechanical design of
-                traditional auto-racing with the cutting-edge software controls of driverless vehicles,
-                autonomous go-karts are the perfect platform to design, build, and test the vehicles of tomorrow.
-                <br><br>
-                The driver is replaced with a variety of sensors placed throughout the kart. These
-                sensors act as the eyes and ears of the vehicle, feeding the data to a control algorithm
-                that students develop and tune. Machine learning (artificial intelligence) is often used to
-                interpret sensor data. The challenge is who can engineer and build the most effective and fast driverless kart.
-            </p>
-        </div>
+	
+	
+	
+	<div class="container-header">
+		<h2>Developing Autonomous Racing Solutions</h2>
+	</div>
+	<div class="container">
+		<img class="sub-img" src="AMP/images/kart.jpg" alt="Go kart on starting line">
+		<p>
+			Autonomous racing is the ultimate engineering challenge. Combining the mechanical design of
+			traditional auto-racing with the cutting-edge software controls of driverless vehicles,
+			autonomous go-karts are the perfect platform to design, build, and test the vehicles of tomorrow.
+			<br><br>
+			The driver is replaced with a variety of sensors placed throughout the kart. These
+			sensors act as the eyes and ears of the vehicle, feeding the data to a control algorithm
+			that students develop and tune. Machine learning (artificial intelligence) is often used to
+			interpret sensor data. The challenge is who can engineer and build the most effective and fast driverless kart.
+		</p>
     </div>
-    <div class="container">
-        <h2 class="container-header">Autonomous Karting Series</h2>
-        <div class="container-body">
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                labore et dolore magna aliqua. Amet aliquam id diam maecenas ultricies mi eget. Tellus elementum
-                sagittis vitae et leo. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Donec pretium
-                vulputate sapien nec sagittis. Facilisi cras fermentum odio eu feugiat pretium. Aenean sed adipiscing diam
-                donec adipiscing tristique. Laoreet non curabitur gravida arcu ac tortor dignissim convallis aenean. Facilisis
-                mauris sit amet massa vitae tortor condimentum.
-                <br><br>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                labore et dolore magna aliqua. Amet aliquam id diam maecenas ultricies mi eget. Tellus elementum
-                sagittis vitae et leo. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Donec pretium
-                vulputate sapien nec sagittis. Facilisi cras fermentum odio eu feugiat pretium. Aenean sed adipiscing diam
-                donec adipiscing tristique. Laoreet non curabitur gravida arcu ac tortor dignissim convallis aenean.
-            </p>
-            <img class="sub-img" src="/AMP/images/aks.jpg" alt="Autonomous Karting Series team picture.">
-        </div>
+    
+	<div class="container-header">
+        <h2>Autonomous Karting Series</h2>
+	</div>
+	<div class="container">
+		<p>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+			labore et dolore magna aliqua. Amet aliquam id diam maecenas ultricies mi eget. Aenean sed adipiscing diam
+			donec adipiscing tristique. Laoreet non curabitur gravida arcu ac tortor dignissim convallis aenean. Facilisis
+			mauris sit amet massa vitae tortor condimentum.
+			<br><br>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+			labore et dolore magna aliqua. Amet aliquam id diam maecenas ultricies mi eget. Tellus elementum
+			sagittis vitae et leo. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Donec pretium
+			vulputate sapien nec sagittis. Facilisi cras fermentum odio eu feugiat pretium.
+		</p>
+			<img class="sub-img" src="/AMP/images/aks.jpg" alt="Autonomous Karting Series team picture.">
     </div>
+	<div class="container-header">
+		<h2>Subteams</h2>
+	</div>
     <div class="container" id="media-center">
-        <div class="container-header">
-            <h2>Subteams</h2>
-        </div>
+        
         <div class="container-body">
             <a class="team-container" href="/AMP/projects">
                 <div>
@@ -105,6 +104,7 @@
         </div>
     </div>
     <br>
+	<br>
     <?php include $_SERVER['DOCUMENT_ROOT'] . '/AMP/public_html/assets/footer.php'; ?>
 </body>
 
