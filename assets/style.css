@@ -38,10 +38,18 @@ h3
 	color: #FFF;
 	text-decoration: none;
 }
+hr
+{
+	border: none;
+	height: 3px;
+	color: #FFF;
+	background-color: #FFF;
+}
 p
 {
-	font-family: Source-Serif-Pro;
-	font-size: 18px;
+	font-size: 20px;
+	line-height: 1.6;
+	font-family: acumin-pro, sans-serif;
 }
 footer
 {
@@ -156,8 +164,6 @@ footer
 .team-container
 {
 	margin: auto;
-	/* display: inline-block; */
-	/* width: 23%; */
 	overflow: auto;
 	min-height: 48px;
 	margin: 5px;
@@ -233,8 +239,63 @@ footer
 	justify-content: center;
 	flex-wrap: wrap;
 }
-
-
+.sponsor-guide
+{
+	text-decoration: none;
+	color: #cfb991;
+	font-weight: bold;
+	font-family: acumin-pro, sans-serif;
+}
+.container-sponsor
+{
+	width: 70%;
+	text-align: center;
+	margin: auto;
+}
+.sponsor-guide:hover
+{
+	text-decoration: underline;
+}
+.sponsor-heading
+{
+	font-family: acumin-pro, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	display: block;
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	margin-top: 20px;
+}
+#gold
+{
+	color: #daaa00;
+}
+#silver
+{
+	color: #C0C0C0;
+}
+#bronze
+{
+	color: #cfb991;
+}
+.container-logo
+{
+	display: flex;
+	width: 80%;
+	margin: auto;
+	justify-content: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.sponsor-logo
+{
+	width: 26%;
+	flex-basis: 26%;
+	flex-grow: 0;
+	margin: 24px;
+	align-items: start;
+}
 
 @media all and (max-width: 1000px)
 {
@@ -278,11 +339,17 @@ footer
 		position: absolute;
 		background-color: #ebd99f;
 	}
-	.container
+	.container, .container-sponsor, .container-logo
 	{
 		width: 90%;
 		flex-wrap: wrap;
 		justify-content: center;
+	}
+	.sponsor-logo
+	{
+		width: 80%;
+		flex-basis: 80%;
+		flex-wrap: wrap;
 	}
 	.sub-img{
 		max-width: 90%;
