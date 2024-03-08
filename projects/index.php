@@ -32,7 +32,7 @@
 		<img id="banner" src="/AMP/images/banner.jpg" alt="Team Workshop">
 	</div>
 	
-	<div class="container-header">
+	<div class="container-header" id="software">
 		<h2>Software</h2>
 	</div>
 	<div class="container">
@@ -48,7 +48,7 @@
 			interpret sensor data. The challenge is who can engineer and build the most effective and fast driverless kart.
 		</p>
     </div>
-	<div class="container-header">
+	<div class="container-header" id="electrical">
         <h2>Electrical</h2>
 	</div>
 	<div class="container">
@@ -65,8 +65,8 @@
 		</p>
 		<img class="sub-img" src="/AMP/images/aks.jpg" alt="Autonomous Karting Series team picture.">
     </div>
-	<div class="container-header">
-		<h2>Mechancial</h2>
+	<div class="container-header" id="mechanical">
+		<h2>Mechanical</h2>
 	</div>
 	<div class="container">
 		<img class="sub-img" src="/AMP/images/kart.jpg" alt="Go kart on starting line">
@@ -81,7 +81,7 @@
 			interpret sensor data. The challenge is who can engineer and build the most effective and fast driverless kart.
 		</p>
     </div>
-	<div class="container-header">
+	<div class="container-header" id="business">
         <h2>Business</h2>
 	</div>
 	<div class="container">
