@@ -77,25 +77,25 @@
     <div class="container" id="media-center">
         
         <div class="container-body">
-            <a class="team-container" href="/AMP/projects">
+            <a class="team-container" href="/AMP/projects/#software">
                 <div>
                     <h3>Software</h3>
                     <img class="subteam-images" src="/AMP/images/view.jpg" />
                 </div>
             </a>
-            <a class="team-container" href="/AMP/projects">
+            <a class="team-container" href="/AMP/projects/#electrical">
                 <div>
                     <h3>Electrical</h3>
                     <img class="subteam-images" src="/AMP/images/view.jpg" />
                 </div>
             </a>
-            <a class="team-container" href="/AMP/projects">
+            <a class="team-container" href="/AMP/projects/#mechanical">
                 <div>
                     <h3>Mechanical</h3>
                     <img class="subteam-images" src="/AMP/images/view.jpg" />
                 </div>
             </a>
-            <a class="team-container" href="/AMP/projects">
+            <a class="team-container" href="/AMP/projects/#business">
                 <div>
                     <h3>Business</h3>
                     <img class="subteam-images" src="/AMP/images/view.jpg" />
