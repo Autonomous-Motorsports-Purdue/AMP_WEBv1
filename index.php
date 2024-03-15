@@ -77,25 +77,25 @@
             <a class="team-container" href="/AMP/projects/#software">
                 <div>
                     <h3>Software</h3>
-                    <img class="subteam-images" src="/AMP/images/view.jpg" />
+                    <img class="subteam-images" src="/AMP/images/subteam-software.png" />
                 </div>
             </a>
             <a class="team-container" href="/AMP/projects/#electrical">
                 <div>
                     <h3>Electrical</h3>
-                    <img class="subteam-images" src="/AMP/images/view.jpg" />
+                    <img class="subteam-images" src="/AMP/images/subteam-electrical.jpg" />
                 </div>
             </a>
             <a class="team-container" href="/AMP/projects/#mechanical">
                 <div>
                     <h3>Mechanical</h3>
-                    <img class="subteam-images" src="/AMP/images/view.jpg" />
+                    <img class="subteam-images" src="/AMP/images/subteam-mechanical.JPG" />
                 </div>
             </a>
             <a class="team-container" href="/AMP/projects/#business">
                 <div>
                     <h3>Business</h3>
-                    <img class="subteam-images" src="/AMP/images/view.jpg" />
+                    <img class="subteam-images" src="/AMP/images/subteam-business.jpg" />
                 </div>
             </a>
         </div>
