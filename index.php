@@ -50,7 +50,7 @@
 			The driver is replaced with a variety of sensors placed throughout the kart. These
 			sensors act as the eyes and ears of the vehicle, feeding the data to a control algorithm
 			that students develop and tune. Machine learning (artificial intelligence) is often used to
-			interpret sensor data. The challenge is who can engineer and build the most effective and fast driverless kart.
+			interpret sensor data.
 		</p>
     </div>
     
@@ -59,15 +59,12 @@
 	</div>
 	<div class="container">
 		<p>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-			labore et dolore magna aliqua. Amet aliquam id diam maecenas ultricies mi eget. Aenean sed adipiscing diam
-			donec adipiscing tristique. Laoreet non curabitur gravida arcu ac tortor dignissim convallis aenean. Facilisis
-			mauris sit amet massa vitae tortor condimentum.
+			AMP is a founding member of the Autonomous Karting Series (AKS), and hosts the AKS Purdue Grand Prix: 
+			An event where various universities design and build a driverless go-kart and compete against each 
+			other. Competing karts are tested for their performance and reliability. 
 			<br><br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-			labore et dolore magna aliqua. Amet aliquam id diam maecenas ultricies mi eget. Tellus elementum
-			sagittis vitae et leo. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Donec pretium
-			vulputate sapien nec sagittis. Facilisi cras fermentum odio eu feugiat pretium.
+			AKS offers a collaborative platform for teams to learn and apply their skills in an ambitious project. 
+			The goal of AKS is to make kart-scale, head-to-head autonomous racing accessible to college students.
 		</p>
 			<img class="sub-img" src="/AMP/images/aks.jpg" alt="Autonomous Karting Series team picture.">
     </div>
