@@ -27,7 +27,7 @@
             <i class="fa fa-bars"></i>
         </a>
     </nav>
-   <div class="container-banner">
+    <div class="container-banner">
 		<h1>Projects</h1>
 		<img id="banner" src="/AMP/images/banner.jpg" alt="Team Workshop">
 	</div>
