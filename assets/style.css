@@ -38,6 +38,13 @@ h3
 	color: #FFF;
 	text-decoration: none;
 }
+h4
+{
+	text-align: left;
+	font-family: united-sans, sans-serif;
+	font-size: 18px;
+	margin: 6px 0px;
+}
 hr
 {
 	border: none;
@@ -62,7 +69,7 @@ footer
 	min-height: 50px;
 	padding-bottom: 18px;
 }
-.nav-home, .nav-links, .social-links
+.nav-home, .nav-links, .social-links, .strip-links
 {
 	text-decoration: none;
 	color: #FFF;
@@ -326,8 +333,52 @@ footer
 	background-color: #DAAA00;
 	cursor: pointer;
 }
-
-
+.news-header
+{
+	display: flex;
+	flex-direction: row;
+	width: 70%;
+	border: 3px solid #CCC;
+	border-radius: 3px;
+	justify-content: center;
+	margin: auto;
+	height: 128px;
+}
+.news-container
+{
+	display: flex;
+	flex: auto;
+	flex-grow: 1;
+	object-fit: cover;
+}
+.news-content
+{
+	width: 75%;
+	padding: 0px 4px;
+}
+.news-detail
+{
+	font-size: 14px;
+	font-family: united-sans;
+	opacity: 70%;
+}
+.news-summary
+{
+	font-size: 18px;
+	font-family: united-sans;
+}
+.news-ignore
+{
+	height: 1px;
+	color: #CCC;
+	background-color: #CCC;
+}
+.search-heading
+{
+	font-size: 18px;
+	font-family: united-sans;
+	text-align: center;
+}
 
 @media all and (max-width: 1000px)
 {
