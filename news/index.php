@@ -1,3 +1,23 @@
+<?php
+$sort = "";
+
+if($_SERVER["REQUEST_METHOD"] == "GET")
+{
+	$sort = clean($_GET["sort"]);
+	$search = clean($_GET["search"]);
+	$pages = scandir($_SERVER['DOCUMENT_ROOT'] . '/AMP/public_html/pages');
+	//print_r($pages);
+	
+}
+
+function clean($data)
+{
+	$data = trim($data);
+	$data= htmlspecialchars($data);
+	$data = stripslashes($data);
+	return $data;
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -36,18 +56,49 @@
 	<div class="menu">
 		<div id="menu-container">
 		</div>
-		<form method="GET" class="form-container">
+		<form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="GET" class="form-container">
+			
 			Sort By
 			<select name="sort" class="sort">
+				<?php
+					if(strcmp($sort, "old") == 0)
+					{
+				?>
+				<option value="old">Oldest</option>
+				<option value="new">Newest</option>
+				<?php
+					}
+					else
+					{
+				?>
 				<option value="new">Newest</option>
 				<option value="old">Oldest</option>
+				<?php
+					}
+				?>
+				
 			</select>
 			<input type="text" name="search" placeholder="Search" class="search"/>
 			<input type="submit" value="Search" class="form-submit">
 		</form>
 	</div>
 	<br>
-	
+	<br>
+	<br>
+	<div class="search-heading">No articles found matching "X"</div>
+	<br>
+	<br>
+	<a href="#" class="strip-links">
+		<div class="news-header">
+			<img src="/AMP/images/banner.jpg" class="news-container" />
+			<div class="news-content">
+				<h4>Heading FX9</h4>
+				<span class="news-detail">Published By: <?php echo "John Smith"; ?>&nbsp; - &nbsp;<?PHP echo "01/01/1970"; ?></span>
+				<hr class="news-ignore">
+				<span class="news-summary">This is the news summary. This is the news content in the container.</span>
+			</div>
+		</div>
+	</a>	
 	<h2>Page Under Construction</h2>
     <br>
 	<br>
