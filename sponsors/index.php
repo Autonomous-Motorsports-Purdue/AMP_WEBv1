@@ -48,20 +48,20 @@
 		&#x2022; Gold Sponsors &#x2022;
 		<hr>
 	</div>
+	
 	<div class="container-logo">
-		<img src="/AMP/images/sponsor.png" class="sponsor-logo">
-		<img src="/AMP/images/sponsor.png" class="sponsor-logo">
-		<img src="/AMP/images/sponsor.png" class="sponsor-logo">
+		<a href="https://www.gm.com/" target="_blank"><img src="/AMP/images/gm.png" class="sponsor-logo-gold"></a>
 	</div>
+	
 	<br>
 	<div class="sponsor-heading" id="silver">
 		&#x2022; Silver Sponsors &#x2022;
 		<hr>
 	</div>
 	<div class="container-logo">
-		<img src="/AMP/images/sponsor.png" class="sponsor-logo">
-		<img src="/AMP/images/sponsor.png" class="sponsor-logo">
-		<img src="/AMP/images/sponsor.png" class="sponsor-logo">
+		<a href="#22" target="_blank"><img src="/AMP/images/velodyne.png" class="sponsor-logo"></a>
+		<a href="#22" target="_blank"><img src="/AMP/images/pesc.png" class="sponsor-logo"></a>
+		<a href="#22" target="_blank"><img src="/AMP/images/stellantis.png" class="sponsor-logo"></a>
 	</div>
 	<br>
 	<div class="sponsor-heading" id="bronze">
@@ -69,9 +69,8 @@
 		<hr>
 	</div>
 	<div class="container-logo">
-		<img src="/AMP/images/sponsor.png" class="sponsor-logo">
-		<img src="/AMP/images/sponsor.png" class="sponsor-logo">
-		<img src="/AMP/images/sponsor.png" class="sponsor-logo">
+		<a href="#22" target="_blank"><img src="/AMP/images/ece.jpg" class="sponsor-logo"></a>
+		<a href="#22" target="_blank"><img src="/AMP/images/honors.png" class="sponsor-logo"></a>
 	</div>
 	<br>
 	<div class="sponsor-heading" >
@@ -79,9 +78,7 @@
 		<hr>
 	</div>
 	<div class="container-logo">
-		<img src="/AMP/images/sponsor.png" class="sponsor-logo">
-		<img src="/AMP/images/sponsor.png" class="sponsor-logo">
-		<img src="/AMP/images/sponsor.png" class="sponsor-logo">
+		<a href="#22" target="_blank"><img src="/AMP/images/protocase.png" class="sponsor-logo"></a>
 	</div>
 	<br>
 	
