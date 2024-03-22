@@ -69,16 +69,13 @@
 		<h2>Mechanical</h2>
 	</div>
 	<div class="container">
-		<img class="sub-img" src="/AMP/images/kart.jpg" alt="Go kart on starting line">
+		<img class="sub-img" src="/AMP/images/mechanical-view.png" alt="Go kart top view">
 		<p>
-			Autonomous racing is the ultimate engineering challenge. Combining the mechanical design of
-			traditional auto-racing with the cutting-edge software controls of driverless vehicles,
-			autonomous go-karts are the perfect platform to design, build, and test the vehicles of tomorrow.
+			Members design, test, and manufacture countless parts for the go-kart. In the past couple of years, 
+			some of our projects include spoiler design, electrical enclosures, structural mounts, and rebuilding the kart from the ground up. 
 			<br><br>
-			The driver is replaced with a variety of sensors placed throughout the kart. These
-			sensors act as the eyes and ears of the vehicle, feeding the data to a control algorithm
-			that students develop and tune. Machine learning (artificial intelligence) is often used to
-			interpret sensor data. The challenge is who can engineer and build the most effective and fast driverless kart.
+			We primarily use SolidWorks to design and test our parts. Anyone is welcome to join, and no experience is necessary. Mechanical meets 
+			Sundays at 2 PM and Wednesdays at 5 PM in the Bechtel Innovation and Design Center.
 		</p>
     </div>
 	<div class="container-header" id="business">
