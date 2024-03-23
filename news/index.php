@@ -41,7 +41,7 @@ function clean($data)
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="Autonomous Motorsports Purdue (AMP) is an organization focused on educating students about autonomous driving and inspiring innovation through student-led projects.">
-		<title>Autonomous Motorsports Purdue</title>
+		<title>News | Autonomous Motorsports Purdue</title>
 		<?php include $_SERVER['DOCUMENT_ROOT'] . '/AMP/public_html/assets/header.php'; ?>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="../assets/style.css">
