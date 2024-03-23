@@ -260,7 +260,7 @@ footer
 	text-align: center;
 	margin: auto;
 }
-.sponsor-guide:hover
+.sponsor-guide:hover, .contact-link:hover
 {
 	text-decoration: underline;
 }
@@ -403,6 +403,48 @@ footer
 	font-family: united-sans;
 	text-align: center;
 }
+.contact-container
+{
+	width: 75%;
+	overflow: auto;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	gap: 3%;
+}
+.contact-flex
+{
+	width: 30%;
+	min-height: 50px;
+	border: 2px solid #ccc;
+	border-radius: 3px;
+	text-align: center;
+	padding: 16px;
+}
+.contact-form
+{
+	width: 75%;
+	overflow: auto;
+	min-height: 1200px;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+}
+.contact-heading
+{
+	font-family: acumin-pro, sans-serif;
+	font-size: 16px;
+	color: #FFF;
+	justify-content: center;
+}
+.contact-link
+{
+	font-family: acumin-pro, sans-serif;
+	font-size: 16px;
+	color: #ebd99f;
+	justify-content: center;
+	text-decoration: none;
+}
 
 @media all and (max-width: 1000px)
 {
@@ -480,6 +522,24 @@ footer
 	{
 		gap: 0%;
 		margin: 0;
+	}
+	.contact-container, .contact-form
+	{
+		width: 100%;
+		gap: 1%;
+	}
+	.contact-container
+	{
+		flex-wrap: wrap;
+		flex-direction: column;
+	}
+	.contact-flex
+	{
+		text-align: center;
+		justify-content: center;
+		margin: auto;
+		width: 80%;
+		margin-bottom: 24px;
 	}
 }
 @media all and (max-width: 640px)
