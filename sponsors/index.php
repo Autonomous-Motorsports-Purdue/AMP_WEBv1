@@ -4,7 +4,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Autonomous Motorsports Purdue (AMP) is an organization focused on educating students about autonomous driving and inspiring innovation through student-led projects.">
-    <title>Projects | Autonomous Motorsports Purdue</title>
+    <title>Sponsors | Autonomous Motorsports Purdue</title>
     <?php include $_SERVER['DOCUMENT_ROOT'] . '/AMP/public_html/assets/header.php'; ?>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="../assets/style.css">
@@ -59,9 +59,9 @@
 		<hr>
 	</div>
 	<div class="container-logo">
-		<a href="#22" target="_blank"><img src="/AMP/images/velodyne.png" class="sponsor-logo"></a>
-		<a href="#22" target="_blank"><img src="/AMP/images/pesc.png" class="sponsor-logo"></a>
-		<a href="#22" target="_blank"><img src="/AMP/images/stellantis.png" class="sponsor-logo"></a>
+		<a href="https://velodynelidar.com/" target="_blank"><img src="/AMP/images/velodyne.png" class="sponsor-logo"></a>
+		<a href="https://www.purdueesc.org/" target="_blank"><img src="/AMP/images/pesc.png" class="sponsor-logo"></a>
+		<a href="https://www.stellantis.com" target="_blank"><img src="/AMP/images/stellantis.png" class="sponsor-logo"></a>
 	</div>
 	<br>
 	<div class="sponsor-heading" id="bronze">
@@ -69,8 +69,8 @@
 		<hr>
 	</div>
 	<div class="container-logo">
-		<a href="#22" target="_blank"><img src="/AMP/images/ece.jpg" class="sponsor-logo"></a>
-		<a href="#22" target="_blank"><img src="/AMP/images/honors.png" class="sponsor-logo"></a>
+		<a href="https://engineering.purdue.edu/ECE" target="_blank"><img src="/AMP/images/ece.jpg" class="sponsor-logo"></a>
+		<a href="https://honors.purdue.edu/" target="_blank"><img src="/AMP/images/honors.png" class="sponsor-logo"></a>
 	</div>
 	<br>
 	<div class="sponsor-heading" >
@@ -78,7 +78,7 @@
 		<hr>
 	</div>
 	<div class="container-logo">
-		<a href="#22" target="_blank"><img src="/AMP/images/protocase.png" class="sponsor-logo"></a>
+		<a href="https://www.protocase.com/" target="_blank"><img src="/AMP/images/protocase.png" class="sponsor-logo"></a>
 	</div>
 	<br>
 	
