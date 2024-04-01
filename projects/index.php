@@ -29,23 +29,22 @@
     </nav>
     <div class="container-banner">
 		<h1>Projects</h1>
-		<img id="banner" src="/AMP/images/banner.jpg" alt="Team Workshop">
+		<img id="banner" src="/AMP/images/projects.jpg" alt="Team Workshop">
 	</div>
 	
 	<div class="container-header" id="software">
 		<h2>Software</h2>
 	</div>
 	<div class="container">
-		<img class="sub-img" src="/AMP/images/kart.jpg" alt="Go kart on starting line">
+		<img class="sub-img" src="/AMP/images/software-view.JPG" alt="Software Track Detection">
 		<p>
-			Autonomous racing is the ultimate engineering challenge. Combining the mechanical design of
-			traditional auto-racing with the cutting-edge software controls of driverless vehicles,
-			autonomous go-karts are the perfect platform to design, build, and test the vehicles of tomorrow.
+			Members on the software team work together to code the Autonomous Software Stack for 
+			the go-kart. The vehicle utilizes the NVIDIA Jetson as the primary compute unit. In past 
+			semesters, students optimized raceline which was the optimal path around the race track.
 			<br><br>
-			The driver is replaced with a variety of sensors placed throughout the kart. These
-			sensors act as the eyes and ears of the vehicle, feeding the data to a control algorithm
-			that students develop and tune. Machine learning (artificial intelligence) is often used to
-			interpret sensor data. The challenge is who can engineer and build the most effective and fast driverless kart.
+			Current projects include improving the Autonomous Navigation Stack and continuing to 
+			work on serial communication. Software meets 
+			Sundays at 2 PM and Wednesdays at 6 PM in the Bechtel Innovation and Design Center.
 		</p>
     </div>
 	<div class="container-header" id="electrical">
@@ -53,17 +52,13 @@
 	</div>
 	<div class="container">
 		<p>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-			labore et dolore magna aliqua. Amet aliquam id diam maecenas ultricies mi eget. Aenean sed adipiscing diam
-			donec adipiscing tristique. Laoreet non curabitur gravida arcu ac tortor dignissim convallis aenean. Facilisis
-			mauris sit amet massa vitae tortor condimentum.
+			In the electrical subteam, students develop and test PCB's, wire go-kart components, and code firmware. Some of 
+			our past projects include kart PCB design, lithium battery assembly, and ethernet communication. 
 			<br><br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-			labore et dolore magna aliqua. Amet aliquam id diam maecenas ultricies mi eget. Tellus elementum
-			sagittis vitae et leo. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Donec pretium
-			vulputate sapien nec sagittis. Facilisi cras fermentum odio eu feugiat pretium.
+			Our PCB's are STM32 based and designed using KiCAD. Electrical meets 
+			Sundays at 2 PM in the Bechtel Innovation and Design Center.
 		</p>
-		<img class="sub-img" src="/AMP/images/aks.jpg" alt="Autonomous Karting Series team picture.">
+		<img class="sub-img" src="/AMP/images/electrical-view.png" alt="Electrical PCB">
     </div>
 	<div class="container-header" id="mechanical">
 		<h2>Mechanical</h2>
@@ -83,17 +78,13 @@
 	</div>
 	<div class="container">
 		<p>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-			labore et dolore magna aliqua. Amet aliquam id diam maecenas ultricies mi eget. Aenean sed adipiscing diam
-			donec adipiscing tristique. Laoreet non curabitur gravida arcu ac tortor dignissim convallis aenean. Facilisis
-			mauris sit amet massa vitae tortor condimentum.
+			Students of the business subteam have a variety of projects to choose from. Past projects include 
+			networking with sponsors, tracking budgets, and analyzing organization finances.
 			<br><br>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-			labore et dolore magna aliqua. Amet aliquam id diam maecenas ultricies mi eget. Tellus elementum
-			sagittis vitae et leo. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Donec pretium
-			vulputate sapien nec sagittis. Facilisi cras fermentum odio eu feugiat pretium.
+			No matter your major, AMP has a place for you. If you are interested in the business subteam, email 
+			us through the contact page. 
 		</p>
-		<img class="sub-img" src="/AMP/images/aks.jpg" alt="Autonomous Karting Series team picture.">
+		<!--<img class="sub-img" src="/AMP/images/XXX.jpg" alt="Business Subteam">-->
     </div>
     <br>
 	<br>
