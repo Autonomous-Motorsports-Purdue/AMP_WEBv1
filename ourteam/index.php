@@ -27,7 +27,7 @@
 		</nav>
 		<div class="container-banner">
 			<h1>Our Team</h1>
-			<img id="banner" src="/AMP/images/banner.jpg" alt="AMP Team Picture">
+			<img id="banner" src="/AMP/images/IAC_team.jpg" alt="AMP Team Picture">
 		</div>
 		<h2>2023 - 2024 Leadership</h2>
 		<div id="media-center">
