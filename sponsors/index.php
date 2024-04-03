@@ -60,6 +60,10 @@
 	</div>
 	<div class="container-logo">
 		<a href="https://velodynelidar.com/" target="_blank"><img src="/AMP/images/velodyne.png" class="sponsor-logo"></a>
+		<a href="https://www.onsemi.com/" target="_blank"><img src="/AMP/images/onsemi.jpg" class="sponsor-logo"></a>
+	</div>
+	<br>
+	<div class="container-logo">
 		<a href="https://www.purdueesc.org/" target="_blank"><img src="/AMP/images/pesc.png" class="sponsor-logo"></a>
 		<a href="https://www.stellantis.com" target="_blank"><img src="/AMP/images/stellantis.png" class="sponsor-logo"></a>
 	</div>
@@ -70,7 +74,6 @@
 	</div>
 	<div class="container-logo">
 		<a href="https://engineering.purdue.edu/ECE" target="_blank"><img src="/AMP/images/ece.jpg" class="sponsor-logo"></a>
-		<a href="https://www.onsemi.com/" target="_blank"><img src="/AMP/images/onsemi.jpg" class="sponsor-logo"></a>
 		<a href="https://honors.purdue.edu/" target="_blank"><img src="/AMP/images/honors.png" class="sponsor-logo"></a>
 	</div>
 	<br>
