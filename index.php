@@ -19,7 +19,7 @@
             <a class="nav-links" href="/AMP">Home</a>
             <a class="nav-links" href="/AMP/ourteam">Our Team</a>
             <a class="nav-links" href="/AMP/projects">Projects</a>
-            <a class="nav-links" href="/AMP/news">News</a>
+            <!--<a class="nav-links" href="/AMP/news">News</a>-->
             <a class="nav-links" href="/AMP/sponsors">Sponsors</a>
             <a class="nav-links" href="/amp/contact">Contact</a>
         </div>
