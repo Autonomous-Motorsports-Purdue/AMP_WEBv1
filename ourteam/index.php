@@ -17,7 +17,7 @@
 				<a class="nav-links" href="/AMP" >Home</a>
 				<a class="nav-links" href="/AMP/ourteam" >Our Team</a>
 				<a class="nav-links" href="/AMP/projects" >Projects</a>
-				<a class="nav-links" href="/AMP/news" >News</a>
+				<!--<a class="nav-links" href="/AMP/news" >News</a>-->
 				<a class="nav-links" href="/AMP/sponsors" >Sponsors</a>
 				<a class="nav-links" href="/amp/contact" >Contact</a>
 			</div>
@@ -33,59 +33,66 @@
 		<div id="media-center">
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/badge.jpg">
-				<span class="heading-badge">John Smith</span>
-				<span class="sub-heading-badge">Admin</span>
-				<span class="sub-heading-badge">smithj@purdue.edu</span>
+				<img class="image-badge" src="/AMP/images/profile.png">
+				<span class="heading-badge">Ben Owen</span>
+				<span class="sub-heading-badge">President</span>
+				<span class="sub-heading-badge">owen67@purdue.edu</span>
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/badge.jpg">
-				<span class="heading-badge">John Smith</span>
-				<span class="sub-heading-badge">Admin</span>
-				<span class="sub-heading-badge">smithj@purdue.edu</span>
+				<img class="image-badge" src="/AMP/images/profile.png">
+				<span class="heading-badge">Peyton Dow</span>
+				<span class="sub-heading-badge">Treasurer</span>
+				<span class="sub-heading-badge">dow4@purdue.edu</span>
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/badge.jpg">
-				<span class="heading-badge">John Smith</span>
-				<span class="sub-heading-badge">Admin</span>
-				<span class="sub-heading-badge">smithj@purdue.edu</span>
+				<img class="image-badge" src="/AMP/images/profile.png">
+				<span class="heading-badge">Nick Berlier</span>
+				<span class="sub-heading-badge">Software Team Lead</span>
+				<span class="sub-heading-badge">nberlier@purdue.edu</span>
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/badge.jpg">
-				<span class="heading-badge">John Smith</span>
-				<span class="sub-heading-badge">Admin</span>
-				<span class="sub-heading-badge">smithj@purdue.edu</span>
+				<img class="image-badge" src="/AMP/images/profile.png">
+				<span class="heading-badge">Aryamaan Dhomne</span>
+				<span class="sub-heading-badge">Software Team Lead</span>
+				<span class="sub-heading-badge">adhomne@purdue.edu</span>
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/badge.jpg">
-				<span class="heading-badge">John Smith</span>
-				<span class="sub-heading-badge">Admin</span>
-				<span class="sub-heading-badge">smithj@purdue.edu</span>
+				<img class="image-badge" src="/AMP/images/profile.png">
+				<span class="heading-badge">Zach Meadows</span>
+				<span class="sub-heading-badge">Electrical Team Lead</span>
+				<span class="sub-heading-badge">zgmeadow@purdue.edu</span>
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/badge.jpg">
-				<span class="heading-badge">John Smith</span>
-				<span class="sub-heading-badge">Admin</span>
-				<span class="sub-heading-badge">smithj@purdue.edu</span>
+				<img class="image-badge" src="/AMP/images/profile.png">
+				<span class="heading-badge">Sam Bhatt</span>
+				<span class="sub-heading-badge">Mechanical Team Lead</span>
+				<span class="sub-heading-badge">srbhatt@purdue.edu</span>
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/badge.jpg">
-				<span class="heading-badge">John Smith</span>
-				<span class="sub-heading-badge">Admin</span>
-				<span class="sub-heading-badge">smithj@purdue.edu</span>
+				<img class="image-badge" src="/AMP/images/profile.png">
+				<span class="heading-badge">Will Campbell</span>
+				<span class="sub-heading-badge">Mechanical Team Lead</span>
+				<span class="sub-heading-badge">wrcampbe@purdue.edu</span>
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/badge.jpg">
-				<span class="heading-badge">John Smith</span>
-				<span class="sub-heading-badge">Admin</span>
-				<span class="sub-heading-badge">smithj@purdue.edu</span>
+				<img class="image-badge" src="/AMP/images/profile.png">
+				<span class="heading-badge">Thomas Wang</span>
+				<span class="sub-heading-badge">Mechanical Team Lead</span>
+				<span class="sub-heading-badge">wang5350@purdue.edu</span>
+			</div>
+			<div class="box-badge">
+				<img class="logo-badge" src="/AMP/images/amp_black.png">
+				<img class="image-badge" src="/AMP/images/labi.jpg">
+				<span class="heading-badge">Samuel Labi</span>
+				<span class="sub-heading-badge">Faculty Advisor</span>
+				<span class="sub-heading-badge">labi@purdue.edu</span>
 			</div>
 		</div>
 		
