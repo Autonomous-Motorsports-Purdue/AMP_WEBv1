@@ -66,6 +66,7 @@
 	<div class="container-logo">
 		<a href="https://www.purdueesc.org/" target="_blank"><img src="/AMP/images/pesc.png" class="sponsor-logo"></a>
 		<a href="https://www.stellantis.com" target="_blank"><img src="/AMP/images/stellantis.png" class="sponsor-logo"></a>
+		<a href="https://www.ansys.com" target="_blank"><img src="/AMP/images/ansys.jpg" class="sponsor-logo"></a>
 	</div>
 	<br>
 	<div class="sponsor-heading" id="bronze">
