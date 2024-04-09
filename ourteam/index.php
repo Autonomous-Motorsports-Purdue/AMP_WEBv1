@@ -33,14 +33,14 @@
 		<div id="media-center">
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/profile.png">
+				<img class="image-badge" src="/AMP/images/benowen.jpg">
 				<span class="heading-badge">Ben Owen</span>
 				<span class="sub-heading-badge">President</span>
 				<span class="sub-heading-badge">owen67@purdue.edu</span>
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/profile.png">
+				<img class="image-badge" src="/AMP/images/peytondow.jpg">
 				<span class="heading-badge">Peyton Dow</span>
 				<span class="sub-heading-badge">Treasurer</span>
 				<span class="sub-heading-badge">dow4@purdue.edu</span>
@@ -54,7 +54,7 @@
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/profile.png">
+				<img class="image-badge" src="/AMP/images/aryamaandhomne.jpg">
 				<span class="heading-badge">Aryamaan Dhomne</span>
 				<span class="sub-heading-badge">Software Team Lead</span>
 				<span class="sub-heading-badge">adhomne@purdue.edu</span>
@@ -68,14 +68,14 @@
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/profile.png">
+				<img class="image-badge" src="/AMP/images/sambhatt.jpg">
 				<span class="heading-badge">Sam Bhatt</span>
 				<span class="sub-heading-badge">Mechanical Team Lead</span>
 				<span class="sub-heading-badge">srbhatt@purdue.edu</span>
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/profile.png">
+				<img class="image-badge" src="/AMP/images/willcampbell.jpg">
 				<span class="heading-badge">Will Campbell</span>
 				<span class="sub-heading-badge">Mechanical Team Lead</span>
 				<span class="sub-heading-badge">wrcampbe@purdue.edu</span>
