@@ -41,7 +41,7 @@
 		<h2>Developing Autonomous Racing Solutions</h2>
 	</div>
 	<div class="container">
-		<img class="sub-img" src="AMP/images/kart.jpg" alt="Go kart on starting line">
+		<img class="sub-img" src="/AMP/images/kart.jpg" alt="Go kart on starting line">
 		<p>
 			Autonomous racing is the ultimate engineering challenge. Combining the mechanical design of
 			traditional auto-racing with the cutting-edge software controls of driverless vehicles,
