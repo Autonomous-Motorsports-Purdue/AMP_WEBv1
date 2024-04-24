@@ -47,13 +47,6 @@
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/profile.png">
-				<span class="heading-badge">Nick Berlier</span>
-				<span class="sub-heading-badge">Software Team Lead</span>
-				<span class="sub-heading-badge">nberlier@purdue.edu</span>
-			</div>
-			<div class="box-badge">
-				<img class="logo-badge" src="/AMP/images/amp_black.png">
 				<img class="image-badge" src="/AMP/images/aryamaandhomne.jpg">
 				<span class="heading-badge">Aryamaan Dhomne</span>
 				<span class="sub-heading-badge">Software Team Lead</span>
@@ -61,7 +54,7 @@
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/profile.png">
+				<img class="image-badge" src="/AMP/images/zachmeadows.JPG">
 				<span class="heading-badge">Zach Meadows</span>
 				<span class="sub-heading-badge">Electrical Team Lead</span>
 				<span class="sub-heading-badge">zgmeadow@purdue.edu</span>
@@ -82,8 +75,8 @@
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/profile.png">
-				<span class="heading-badge">Thomas Wang</span>
+				<img class="image-badge" src="/AMP/images/yuhungwang.JPG">
+				<span class="heading-badge">Yu-Hung Wang</span>
 				<span class="sub-heading-badge">Mechanical Team Lead</span>
 				<span class="sub-heading-badge">wang5350@purdue.edu</span>
 			</div>
