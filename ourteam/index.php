@@ -33,7 +33,7 @@
 		<div id="media-center">
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/benowen.jpg">
+				<img class="image-badge" src="/AMP/images/sambhatt.jpg">
 				<span class="heading-badge">Sam Bhatt</span>
 				<span class="sub-heading-badge">President</span>
 				<span class="sub-heading-badge">srbhatt@purdue.edu</span>
