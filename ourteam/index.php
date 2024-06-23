@@ -34,16 +34,9 @@
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
 				<img class="image-badge" src="/AMP/images/benowen.jpg">
-				<span class="heading-badge">Ben Owen</span>
+				<span class="heading-badge">Sam Bhatt</span>
 				<span class="sub-heading-badge">President</span>
-				<span class="sub-heading-badge">owen67@purdue.edu</span>
-			</div>
-			<div class="box-badge">
-				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/peytondow.jpg">
-				<span class="heading-badge">Peyton Dow</span>
-				<span class="sub-heading-badge">Treasurer</span>
-				<span class="sub-heading-badge">dow4@purdue.edu</span>
+				<span class="sub-heading-badge">srbhatt@purdue.edu</span>
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
@@ -58,13 +51,6 @@
 				<span class="heading-badge">Zach Meadows</span>
 				<span class="sub-heading-badge">Electrical Team Lead</span>
 				<span class="sub-heading-badge">zgmeadow@purdue.edu</span>
-			</div>
-			<div class="box-badge">
-				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/sambhatt.jpg">
-				<span class="heading-badge">Sam Bhatt</span>
-				<span class="sub-heading-badge">Mechanical Team Lead</span>
-				<span class="sub-heading-badge">srbhatt@purdue.edu</span>
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
