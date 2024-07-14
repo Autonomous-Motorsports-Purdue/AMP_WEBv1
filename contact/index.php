@@ -52,10 +52,13 @@
 		</div>
 	</div>
 	<br>
+	<br>
+	<br>
+	<!--
 	<div class="contact-form">
 		<iframe width="100%"  src= "https://forms.office.com/Pages/ResponsePage.aspx?id=Ob0wQVN8nEGx5YdY1tY_IQWe-gsKTfhDuArKNXqgw89UOEg5VDZMQ0RLVjJHODA2SzhSVlA3VjhJRyQlQCN0PWcu&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:150vh;" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 	</div>
-	
+	-->
     <?php include $_SERVER['DOCUMENT_ROOT'] . '/AMP/public_html/assets/footer.php'; ?>
 </body>
 
