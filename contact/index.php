@@ -53,6 +53,7 @@
 	</div>
 	<br>
 	<br>
+	<img style="margin: auto; display: block;" src="/AMP/images/callout.png" width="60%">
 	<br>
 	<!--
 	<div class="contact-form">
