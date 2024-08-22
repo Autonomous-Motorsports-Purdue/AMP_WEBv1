@@ -39,7 +39,7 @@
 			<br><br>
 			Interested in sponsoring our team? Download the sponsorship guide below.
 		</p>
-		<a href="AMP-Sponsorship-Guide.pdf" class="sponsor-guide">2023 - 2024 AMP Sponsorship Guide</a>
+		<a href="AMP-Sponsorship-Guide.pdf" class="sponsor-guide">2024 - 2025 AMP Sponsorship Guide</a>
     </div>
 	<br>
 	<br>
@@ -76,6 +76,10 @@
 	<div class="container-logo">
 		<a href="https://engineering.purdue.edu/ECE" target="_blank"><img src="/AMP/images/ece.jpg" class="sponsor-logo"></a>
 		<a href="https://honors.purdue.edu/" target="_blank"><img src="/AMP/images/honors.png" class="sponsor-logo"></a>
+	</div>
+	<br>
+	<div class="container-logo">
+		<a href="" target="_blank"><img src="/AMP/images/bidc.png" class="sponsor-logo"></a>
 	</div>
 	<br>
 	<div class="sponsor-heading" >
