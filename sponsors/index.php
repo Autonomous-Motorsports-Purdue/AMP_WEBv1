@@ -79,7 +79,7 @@
 	</div>
 	<br>
 	<div class="container-logo">
-		<a href="" target="_blank"><img src="/AMP/images/bidc.png" class="sponsor-logo"></a>
+		<a href="https://www.purdue.edu/bidc/" target="_blank"><img src="/AMP/images/bidc.png" class="sponsor-logo"></a>
 	</div>
 	<br>
 	<div class="sponsor-heading" >
@@ -88,6 +88,7 @@
 	</div>
 	<div class="container-logo">
 		<a href="https://www.protocase.com/" target="_blank"><img src="/AMP/images/protocase.png" class="sponsor-logo"></a>
+		<a href="https://www.numerade.com" target="_blank"><img src="/AMP/images/numerade.jpg" class="sponsor-logo"></a>
 	</div>
 	<br>
 	

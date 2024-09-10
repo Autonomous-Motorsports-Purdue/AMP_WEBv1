@@ -44,7 +44,7 @@
 			<br><br>
 			Current projects include improving the Autonomous Navigation Stack and continuing to 
 			work on serial communication. Software meets 
-			Sundays at 2 PM and Wednesdays at 6 PM in the Bechtel Innovation and Design Center.
+			Saturdays at 11 AM in the Bechtel Innovation and Design Center.
 		</p>
     </div>
 	<div class="container-header" id="electrical">
@@ -70,7 +70,7 @@
 			some of our projects include spoiler design, electrical enclosures, structural mounts, and rebuilding the kart from the ground up. 
 			<br><br>
 			We primarily use SolidWorks to design and test our parts. Anyone is welcome to join, and no experience is necessary. Mechanical meets 
-			Sundays at 2 PM and Wednesdays at 5 PM in the Bechtel Innovation and Design Center.
+			Sundays at 2 PM in the Bechtel Innovation and Design Center.
 		</p>
     </div>
 	<div class="container-header" id="business">

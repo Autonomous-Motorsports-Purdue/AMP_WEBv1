@@ -29,7 +29,7 @@
 			<h1>Our Team</h1>
 			<img id="banner" src="/AMP/images/IAC_team.jpg" alt="AMP Team Picture">
 		</div>
-		<h2>2023 - 2024 Leadership</h2>
+		<h2>2024 - 2025 Leadership</h2>
 		<div id="media-center">
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
@@ -47,13 +47,6 @@
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
-				<img class="image-badge" src="/AMP/images/zachmeadows.JPG">
-				<span class="heading-badge">Zach Meadows</span>
-				<span class="sub-heading-badge">Electrical Team Lead</span>
-				<span class="sub-heading-badge">zgmeadow@purdue.edu</span>
-			</div>
-			<div class="box-badge">
-				<img class="logo-badge" src="/AMP/images/amp_black.png">
 				<img class="image-badge" src="/AMP/images/willcampbell.jpg">
 				<span class="heading-badge">Will Campbell</span>
 				<span class="sub-heading-badge">Mechanical Team Lead</span>
@@ -61,11 +54,27 @@
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
+				<img class="image-badge" src="/AMP/images/zachmeadows.JPG">
+				<span class="heading-badge">Zach Meadows</span>
+				<span class="sub-heading-badge">Electrical Team Lead</span>
+				<span class="sub-heading-badge">zgmeadow@purdue.edu</span>
+			</div>
+			<div class="box-badge">
+				<img class="logo-badge" src="/AMP/images/amp_black.png">
+				<img class="image-badge" src="/AMP/images/mattbriggs.jpg">
+				<span class="heading-badge">Matt Briggs</span>
+				<span class="sub-heading-badge">Electrical Team Lead</span>
+				<span class="sub-heading-badge">briggs49@purdue.edu</span>
+			</div>
+			<!--
+			<div class="box-badge">
+				<img class="logo-badge" src="/AMP/images/amp_black.png">
 				<img class="image-badge" src="/AMP/images/yuhungwang.JPG">
 				<span class="heading-badge">Yu-Hung Wang</span>
 				<span class="sub-heading-badge">Mechanical Team Lead</span>
 				<span class="sub-heading-badge">wang5350@purdue.edu</span>
 			</div>
+			-->
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
 				<img class="image-badge" src="/AMP/images/labi.jpg">
