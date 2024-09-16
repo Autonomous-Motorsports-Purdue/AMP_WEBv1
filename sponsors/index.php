@@ -76,6 +76,7 @@
 	<div class="container-logo">
 		<a href="https://engineering.purdue.edu/ECE" target="_blank"><img src="/AMP/images/ece.jpg" class="sponsor-logo"></a>
 		<a href="https://honors.purdue.edu/" target="_blank"><img src="/AMP/images/honors.png" class="sponsor-logo"></a>
+		<a href="https://engineering.purdue.edu/ME" target="_blank"><img src="/AMP/images/me.png" class="sponsor-logo"></a>
 	</div>
 	<br>
 	<div class="container-logo">
