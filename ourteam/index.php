@@ -54,6 +54,13 @@
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
+				<img class="image-badge" src="/AMP/images/grahamputerbaugh.png">
+				<span class="heading-badge">Graham Puterbaugh</span>
+				<span class="sub-heading-badge">Mechanical Team Lead</span>
+				<span class="sub-heading-badge">gputerba@purdue.edu</span>
+			</div>
+			<div class="box-badge">
+				<img class="logo-badge" src="/AMP/images/amp_black.png">
 				<img class="image-badge" src="/AMP/images/zachmeadows.JPG">
 				<span class="heading-badge">Zach Meadows</span>
 				<span class="sub-heading-badge">Electrical Team Lead</span>
