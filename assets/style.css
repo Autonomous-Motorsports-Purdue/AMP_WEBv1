@@ -15,7 +15,7 @@ nav
 h1
 {
 	font-family: acumin-pro, sans-serif;
-	font-size: 54px;
+	font-size: 50px;
 	color: #FFFFFF;
 	position: absolute;
 	z-index: 1;
@@ -38,10 +38,25 @@ h3
 	color: #FFF;
 	text-decoration: none;
 }
+h4
+{
+	text-align: left;
+	font-family: united-sans, sans-serif;
+	font-size: 18px;
+	margin: 6px 0px;
+}
+hr
+{
+	border: none;
+	height: 3px;
+	color: #FFF;
+	background-color: #FFF;
+}
 p
 {
-	font-family: Source-Serif-Pro;
-	font-size: 18px;
+	font-size: 20px;
+	line-height: 1.6;
+	font-family: acumin-pro, sans-serif;
 }
 footer
 {
@@ -54,7 +69,7 @@ footer
 	min-height: 50px;
 	padding-bottom: 18px;
 }
-.nav-home, .nav-links, .social-links
+.nav-home, .nav-links, .social-links, .strip-links
 {
 	text-decoration: none;
 	color: #FFF;
@@ -99,12 +114,8 @@ footer
 {
 	width: 80%;
 	margin: auto;
-	overflow-x: hidden;
-	overflow-y: auto;
-	min-height: 200px; 
 	display: flex;
-	flex-direction: column;
-	flex-shrink: 0;
+	flex-direction: row;
 }
 .container-header{
 	display: flex;
@@ -115,39 +126,18 @@ footer
 .container-body{
 	display: flex;
 	flex: auto;
-	gap: 5%;
+	gap: 3%;
 	flex-direction: row;
 	flex-grow: 1;
 }
-.box-left
-{
-	float: left;
-	display: block;
-	width: 47%;
-	margin: 5px;
-}
-.box-right
-{
-	float: right;
-	display: block;
-	width: 47%;
-	margin: 5px;
-}
-.box-center
-{
-	text-align: center;
-	display: block;
-	margin: auto;
-	width: 60%;
-}
 .sub-img
 {
-	width: 50%;
-	/* object-fit: contain; */
+	display: flex;
+	max-width: 50%;
+	margin: 16px;
+	align-self: center;
 	border: 3px ridge #CCC;
 	border-radius: 5px;
-	flex-grow: 1;
-	flex-basis: 0;
 }
 .socials
 {
@@ -159,13 +149,13 @@ footer
 .team-container
 {
 	margin: auto;
-	/* display: inline-block; */
-	/* width: 23%; */
 	overflow: auto;
-	min-height: 48px;
-	margin: 6px;
 	border: 4px ridge #8e6f3e;
 	border-radius: 5px;
+	text-decoration: none;
+	display: flex;
+	max-width: 22%;
+	
 }
 .subteam-images
 {
@@ -184,10 +174,9 @@ footer
 }
 .box-badge
 {
-	width: 240px;
+	max-width: 240px;
 	display: inline-block;
-	margin: auto;
-	margin: 24px;
+	margin: 20px;
 	border: 6px ridge #8e6f3e;
 	border-radius: 6px;
 	background-color: #ebd99f;
@@ -202,7 +191,7 @@ footer
 .heading-badge
 {
 	font-family: acumin-pro, sans-serif;
-	font-size: 24px;
+	font-size: 22px;
 	color: #000;
 	text-align: center;
 	display: block;
@@ -213,7 +202,7 @@ footer
 .sub-heading-badge
 {
 	font-family: acumin-pro, sans-serif;
-	font-size: 18px;
+	font-size: 16px;
 	color: #000;
 	text-align: center;
 	display: block;
@@ -227,20 +216,222 @@ footer
 #subteams-container{
 	gap: 1%;
 }
-
-
-
+#media-center
+{
+	width: 80%;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.sponsor-guide
+{
+	text-decoration: none;
+	color: #cfb991;
+	font-weight: bold;
+	font-family: acumin-pro, sans-serif;
+}
+.container-sponsor
+{
+	width: 70%;
+	text-align: center;
+	margin: auto;
+}
+.sponsor-guide:hover, .contact-link:hover
+{
+	text-decoration: underline;
+}
+.sponsor-heading
+{
+	font-family: acumin-pro, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	display: block;
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	margin-top: 12px;
+}
+#gold
+{
+	color: #daaa00;
+}
+#silver
+{
+	color: #C0C0C0;
+}
+#bronze
+{
+	color: #cfb991;
+}
+.container-logo
+{
+	display: flex;
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	flex-direction: row;
+	padding-top: 18px;
+	gap: 8%;
+	justify-content: center;
+}
+.sponsor-logo
+{
+	width: 100%;
+	align-self: center;
+	flex-grow: 1;
+	display: flex;
+	object-fit: fill;
+	height: 200px;
+	background-color: #FFF;
+	text-decoration: none;
+	border-radius: 4px;
+	justify-content: center;
+	margin: auto;
+}
+.sponsor-logo-gold
+{
+	width: 100%;
+	align-self: center;
+	flex-grow: 1;
+	display: flex;
+	object-fit: fill;
+	height: 300px;
+	text-decoration: none;
+	border-radius: 4px;
+	text-align: center;
+	justify-content: center;
+	margin: auto;
+}
+.form-container
+{
+	margin: 4px;
+}
+.menu
+{
+	display: block;
+	overflow: auto;
+	float: right;
+	margin-right: 24px;
+	margin-top: 12px;
+	/*border: 2px solid #CCC;*/
+	border-radius: 3px;
+	font-family: acumin-pro, sans-serif;
+	font-size: 16px;
+}
+.search, .form-submit, .sort
+{
+	font-family: acumin-pro, sans-serif;
+	border-radius: 4px;
+	border: none;
+	font-size: 14px;
+	margin-left: 4px;
+}
+.form-submit:hover
+{
+	background-color: #DAAA00;
+	cursor: pointer;
+}
+.news-header
+{
+	display: flex;
+	flex-direction: row;
+	width: 70%;
+	border: 3px solid #CCC;
+	border-radius: 3px;
+	justify-content: center;
+	margin: auto;
+	height: 128px;
+}
+.news-container
+{
+	display: flex;
+	flex: auto;
+	flex-grow: 1;
+	object-fit: cover;
+}
+.news-content
+{
+	width: 75%;
+	padding: 0px 4px;
+}
+.news-detail
+{
+	font-size: 14px;
+	font-family: united-sans;
+	opacity: 70%;
+}
+.news-summary
+{
+	font-size: 18px;
+	font-family: united-sans;
+}
+.news-ignore
+{
+	height: 1px;
+	color: #CCC;
+	background-color: #CCC;
+}
+.search-heading
+{
+	font-size: 18px;
+	font-family: united-sans;
+	text-align: center;
+}
+.contact-container
+{
+	width: 75%;
+	overflow: auto;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	gap: 3%;
+}
+.contact-flex
+{
+	width: 30%;
+	min-height: 50px;
+	border: 2px solid #ccc;
+	border-radius: 3px;
+	text-align: center;
+	padding: 16px;
+}
+.contact-form
+{
+	width: 75%;
+	overflow: auto;
+	min-height: 1200px;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+}
+.contact-heading
+{
+	font-family: acumin-pro, sans-serif;
+	font-size: 16px;
+	color: #FFF;
+	justify-content: center;
+}
+.contact-link
+{
+	font-family: acumin-pro, sans-serif;
+	font-size: 16px;
+	color: #ebd99f;
+	justify-content: center;
+	text-decoration: none;
+}
 
 @media all and (max-width: 1000px)
 {
 	h1
 	{
-		font-size: 28px;
+		font-size: 26px;
 		/* margin-top: 4px; */
 	}
 	h2
 	{
-		font-size: 24px;
+		font-size: 22px;
 	}
 	h3
 	{
@@ -273,12 +464,20 @@ footer
 		position: absolute;
 		background-color: #ebd99f;
 	}
-	.container
+	.container, .container-sponsor, .container-logo
 	{
 		width: 90%;
-	}
-	.container-body{
 		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.sponsor-logo
+	{
+		width: 80%;
+		flex-basis: 80%;
+		flex-wrap: wrap;
+	}
+	.sub-img{
+		max-width: 90%;
 	}
 	.mobile-icon
 	{
@@ -295,8 +494,67 @@ footer
 		background-color: #333;
 		border-radius: 3px;
 	}
-	.team-container
+	.container-body
 	{
-		width: 40%;
+		gap: 0%;
+		margin: 0;
+	}
+	.contact-container, .contact-form
+	{
+		width: 100%;
+		gap: 1%;
+	}
+	.contact-container
+	{
+		flex-wrap: wrap;
+		flex-direction: column;
+	}
+	.contact-flex
+	{
+		text-align: center;
+		justify-content: center;
+		margin: auto;
+		width: 80%;
+		margin-bottom: 24px;
+	}
+	.container-logo
+	{
+		flex-direction: column;
+		justify-content: space-around;
+		gap: 24px;
+	}
+	.sponsor-logo-gold
+	{
+		width: 100%;
+		height: 100%;
+	}
+	.sponsor-logo
+	{
+		all: unset;
+		max-width: 80%;
+		height:80%;
+		align-self: center;
+		background-color: #FFF;
+		text-decoration: none;
+		border-radius: 4px;
+		text-align: center;
+		justify-content: center;
+		margin: auto;
+		
+	}
+}
+@media all and (max-width: 640px)
+{
+	h1
+	{
+		font-size: 24px;
+	}
+	h2
+	{
+		font-size: 20px;
+	}
+	h3
+	{
+		font-size: 11px;
 	}
 }

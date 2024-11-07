@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>AMP</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="../static/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../static/css/grayscale.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+    <nav class="navbar navbar-expand-lg fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="https://engineering.purdue.edu/AMP/#blog">Back to Home</a>
+        </div>
+    </nav>
+
+    <!-- About Section -->
+    <section id="blog" class="projects-section bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-black mb-4">Phase 2</h2>
+                    <p class="text-black-50">
+			The basic four components that contribute to the propulsion of an electric go kart are: batteries, battery management system, motor, and motor controller. Race specifications require the use of lead acid batteries which, unlike lithium ion batteries, do not require a battery management system. Therefore, we were left to choose the motor and motorcontroller combination. The setup we purchased was the Motenergy ME1117 PMAC Motor and Sevcon Gen 4 Size 2 Motorcontroller. A permanent magnet AC (PMAC) motor is more desirable than a DC motor due to the elimination the friction of the commutation brushes. PMACs are also called brushless DC motors because they can be powered with a DC source with the use of an inverter. The Sevcon Gen 4 Size 2 Motorcontroller serves as an inverter and uses a 6-switch MOSFET bridge to produce 3 phase sinusoids from the battery voltage. The Gen 4 and the ME1117 were also offered in a conveniently assembled drivetrain package from electricmotorsport.com. We are looking forward to interfacing this powerful setup with an autonomous driving system.
+
+                        </br></br>
+                        Most ROS projects are built around a robot using differential drive steering.  As we were interested in ackermann steering, we had to do some research into how different projects worked around this.  The <a href="https://mit-racecar.github.io/">MIT race car</a> project proved to be very useful in understanding how to model a kart.  We set up a repo for our model and began learning to use gazebo and coding the nodes we need to control the kart.
+                        </br></br>
+                        <div class="col-lg-8">
+                            <img class="img-fluid" src="../static/img/ackermann.png" alt="">
+                        </div>
+                        </br>
+                        We began examining models on the Velodyne Lidar v16.  We read in data from the <a href="http://driverless.amzracing.ch/">AMZ Formula team's </a>autonomous kart and learned how to visualize it in RVIZ.  There was some diffulty figuring out what rate to publish the data at.
+                        </br></br>
+                        <div class="col-lg-12">
+                            <img class="img-fluid" src="../static/img/lidar.png" alt="">
+                        </div>
+                        </br>
+
+
+
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="../static/vendor/jquery/jquery.min.js"></script>
+    <script src="../static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="../static/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="../static/js/grayscale.min.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>AMP</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="../static/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../static/css/grayscale.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+    <nav class="navbar navbar-expand-lg fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="https://engineering.purdue.edu/AMP/#blog">Back to Home</a>
+        </div>
+    </nav>
+
+    <!-- About Section -->
+    <section id="blog" class="projects-section bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-black mb-4">Phase 1</h2>
+                    <p class="text-black-50">
+                        Our initial focus was building a go kart chassis as a base for our autonomous vehicle.  We constructed the <a href="http://topkartusa.net/electric/">top kart chassis</a>.  We struggled to fit the ring bearings together but learned we could leverage the axle to brute forcing them into position.  This was the first of many lessons in the difficulties of real world engineering problems. Our mechanical lead began taking measurements for a custom machined mount for the servo motor to attach to the steering column. We decided to use the
+                        <a href="https://www.teknic.com/model-info/CPM-MCPV-2321S-RLN/?model_voltage=48VDC">ClearPath-MCPV</a> as our servo motor.
+
+                        </br></br>
+
+                        The electric team worked to develop a high level system diagram.  After researching various options, we deemed TI microntorollers to be the best fit for our kart due to their focus on motor control algorithms, power conversion control, and digital signal processing. They also have great documentation.  All very important aspects for our vehicle. We are still debating how we want to contorl our car remotely as well as how much computing power we need on the kart.  </br></br>
+                        <div class="col-lg-12">
+                            <img class="img-fluid" src="../static/img/component_diagram.jpg" alt="">
+                        </div>
+                        </br></br>
+                        The software team installed ROS Kinetic and began familiarizing ourselves with the framework.  We plan to build our car around the ROS Navigation stack.  We began researching SLAM (simulataneous localization and mapping) and how the Navigation would allow us to implement this around our Velodyne lidar.
+
+                        <div class="col-lg-12">
+                            <img class="img-fluid" src="../static/img/navigation.png" alt="">
+                        </div>
+                        </br></br>
+                        We messed around learning how to dual boot our Windows laptops into Linux after Virtual Machines seemed to fall short on some of the more intensive programs.
+
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="../static/vendor/jquery/jquery.min.js"></script>
+    <script src="../static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="../static/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="../static/js/grayscale.min.js"></script>
+
+</body>
+
+</html>

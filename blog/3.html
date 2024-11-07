@@ -1,0 +1,92 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>AMP</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="../static/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../static/css/grayscale.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+    <nav class="navbar navbar-expand-lg fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="https://engineering.purdue.edu/AMP/#blog">Back to Home</a>
+        </div>
+    </nav>
+
+    <!-- About Section -->
+    <section id="blog" class="projects-section bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <h2 class="text-black mb-4">Phase 3</h2>
+                    <p class="text-black-50">
+
+The ROS Navigation Stack is a powerful tool for those looking to implement basic autonomous technology. It provides a mean to plan and map the surroundings brought in by a variety of different sensors. For us, this included the Velodyne VLP-16 which gives us accurate LiDAR sensing.
+<br><br>
+ROS Navigation Stack
+<br><br>
+The implementation provided many challenges at first due to the nature of what we currently had available to test its functionality. Most of the challenges came from determining the transform tree that was necessary for our kart to function properly. Beyond this the sheer amount of parameters proved difficult to set properly for what our kart needed.
+
+<br><br>
+                        <div class="col-lg-12">
+                            <img class="img-fluid" src="../static/img/path_example.png" alt="">
+                        </div>
+<br><br>
+TEBLocalPlanner
+<br><br>
+                        <div class="col-lg-12">
+                            <img class="img-fluid" src="../static/img/frames.png" alt="">
+                        </div>
+
+<br><br>
+One of the significant problems that needed to be taken into account was that the ROS Navigation Stack's local planner provided movement commands for a robot with a differential drive system where wheels can move independently of each other (something that a tank might use). To get past this issue a new local planner was used in order give us the proper steering angle and velocity needed in order to control the kart. In the image below the large red arrow shows the current pose of the kart output by using adaptive monte carlo localization. The green shows the path that the kart must take in order to reach a desired goal. Due to the new local planner, the path appears to be smooth such that a car can reach this goal by using a continuous drive with car-like steering rather than a differential drive.
+
+<br><br>
+
+                        <div class="col-lg-12">
+                            <img class="img-fluid" src="../static/img/teblocalplanner.png" alt="">
+                        </div>
+<br><br>
+                        <div class="col-lg-12">
+                            <img class="img-fluid" src="../static/img/example_path_lidar.png" alt="">
+                        </div>
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <!-- Bootstrap core JavaScript -->
+    <script src="../static/vendor/jquery/jquery.min.js"></script>
+    <script src="../static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="../static/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="../static/js/grayscale.min.js"></script>
+
+</body>
+
+</html>
