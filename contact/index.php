@@ -43,7 +43,7 @@
 		<div class="contact-flex">
 			<span class="contact-heading">Email</span>
 			<br><br><hr><br>
-			<a href="mailto:amppurdue@gmail.com" class="contact-link">amppurdue@gmail.com</a>
+			<a href="mailto:amppurdue&#64;gmail&#46;com" class="contact-link">amppurdue&#64;gmail&#46;com</a>
 		</div>
 		<div class="contact-flex">
 			<span class="contact-heading">Boilerlink</span>

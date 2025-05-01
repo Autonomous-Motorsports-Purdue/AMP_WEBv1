@@ -8,6 +8,8 @@ $pages = array("AKS 2023 Inaugural Competition");
 $lastmod = array("03/21/2024");
 $summary = array("This is a temp placeholder.");
 
+http_response_code(403);		//Disallow page viewing
+die('Forbidden');
 
 if($_SERVER["REQUEST_METHOD"] == "GET")
 {

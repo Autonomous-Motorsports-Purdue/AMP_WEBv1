@@ -40,6 +40,20 @@
 			</div>
 			<div class="box-badge">
 				<img class="logo-badge" src="/AMP/images/amp_black.png">
+				<img class="image-badge" src="/AMP/images/manavgagvani.png">
+				<span class="heading-badge">Manav Gagvani</span>
+				<span class="sub-heading-badge">Treasurer</span>
+				<span class="sub-heading-badge">mgagvani@purdue.edu</span>
+			</div>
+			<div class="box-badge">
+				<img class="logo-badge" src="/AMP/images/amp_black.png">
+				<img class="image-badge" src="/AMP/images/dannythornewell.jpg">
+				<span class="heading-badge">Danny Thornewell</span>
+				<span class="sub-heading-badge">Software Team Lead</span>
+				<span class="sub-heading-badge">dthornew@purdue.edu</span>
+			</div>
+			<div class="box-badge">
+				<img class="logo-badge" src="/AMP/images/amp_black.png">
 				<img class="image-badge" src="/AMP/images/aryamaandhomne.jpg">
 				<span class="heading-badge">Aryamaan Dhomne</span>
 				<span class="sub-heading-badge">Software Team Lead</span>
