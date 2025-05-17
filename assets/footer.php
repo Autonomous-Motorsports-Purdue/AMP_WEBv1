@@ -12,7 +12,7 @@ echo '
 				<a href="https://www.youtube.com/@autonomousmotorsportspurdu9520" class="social-links" target="_blank"><i class="fa fa-youtube-play" style="font-size:36px"></i></a>
 				</div>
 			<br>
-			Copyright &copy; 2025 Autonomous Motorsports Purdue
+			Copyright &copy; '.date("Y").' Autonomous Motorsports Purdue
 		</footer>
 ';
 

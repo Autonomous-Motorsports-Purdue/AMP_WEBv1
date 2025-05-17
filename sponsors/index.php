@@ -81,7 +81,7 @@
 	<br>
 	<div class="container-logo">
 		<a href="https://www.purdue.edu/bidc/" target="_blank"><img src="/AMP/images/bidc.png" class="sponsor-logo"></a>
-		<a href="https://www.purdue.edu/bidc/" target="_blank"><img src="/AMP/images/pepc.png" class="sponsor-logo"></a>
+		<a href="https://engineering.purdue.edu/Engr/Academics/Undergraduate/student-organizations/PEPC-Groups" target="_blank"><img src="/AMP/images/pepc.png" class="sponsor-logo"></a>
 	</div>
 	<br>
 	<div class="sponsor-heading" >
@@ -93,8 +93,6 @@
 		<a href="https://www.numerade.com" target="_blank"><img src="/AMP/images/numerade.jpg" class="sponsor-logo"></a>
 	</div>
 	<br>
-	
-	
 	<br>
     <br>
 	<br>
